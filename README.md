@@ -40,8 +40,8 @@ This repository contains the code and the replay harness used in
 
 Python 3.11 or later.
 
-    git clone https://github.com/Venetsiyali/gimat.git
-    cd gimat
+    git clone https://github.com/Venetsiyali/gimatarticle.git
+    cd gimatarticle
     pip install -r requirements.txt
 
 No GPU is used. The full experiment runs on two CPU cores.
@@ -97,8 +97,12 @@ inline, so it runs without the result files and needs base MATLAB only.
 
 ## Citing
 
-Please cite the paper above and the archived release of this code; see
-`CITATION.cff`.
+Please cite the paper above and the archived release of this code:
+
+> Nasridinov, R.: GIMAT v1.0: streaming framework for leakage-free ten-day
+> streamflow forecasting, Zenodo [code], https://doi.org/10.5281/zenodo.23211011, 2026.
+
+See also `CITATION.cff`.
 
 ## Licence
 
