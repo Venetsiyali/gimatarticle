@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "GIMAT v1.0: streaming framework for leakage-free ten-day streamflow forecasting"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Venetsiyali/gimat"
+authors:
+  - family-names: Nasridinov
+    given-names: Rustamjon
+    orcid: "https://orcid.org/0009-0003-2422-9029"
+    affiliation: "Tashkent University of Information Technologies named after Muhammad al-Khwarizmi"
+keywords:
+  - hydrology
+  - streamflow forecasting
+  - data leakage
+  - streaming evaluation
+  - Central Asia
