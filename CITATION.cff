@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "GIMAT v1.0: streaming framework for leakage-free ten-day streamflow forecasting"
-version: 1.0.0
+version: 1.0.1
 license: MIT
 doi: 10.5281/zenodo.23211011
 repository-code: "https://github.com/Venetsiyali/gimatarticle"

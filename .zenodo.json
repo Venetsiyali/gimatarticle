@@ -1,0 +1,16 @@
+{
+  "title": "GIMAT v1.0: streaming framework for leakage-free ten-day streamflow forecasting",
+  "upload_type": "software",
+  "description": "Code, conformance tests and replay harness for GIMAT v1.0 and the P-stream v1.0 evaluation protocol. Every quantity emitted at step t is computed from the information available at t; compliance is checked by four mechanical tests. Accompanies a manuscript submitted to Geoscientific Model Development.",
+  "creators": [
+    {
+      "name": "Nasridinov, Rustamjon",
+      "affiliation": "Tashkent University of Information Technologies named after Muhammad al-Khwarizmi",
+      "orcid": "0009-0003-2422-9029"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["hydrology", "streamflow forecasting", "data leakage",
+               "streaming evaluation", "Central Asia"],
+  "version": "1.0.1"
+}

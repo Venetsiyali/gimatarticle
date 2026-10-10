@@ -1,8 +1,7 @@
 """
 Evaluation module for GIMAT v1.0 / P-stream v1.0.
 
-The same statistical apparatus as the static evaluation of the same
-catchments (Nasridinov, 2026), so that the two remain directly comparable:
+The statistical apparatus used throughout the paper:
 
     Diebold-Mariano   squared errors, Newey-West variance truncated at h-1,
                       Harvey-Leybourne-Newbold small-sample correction,
